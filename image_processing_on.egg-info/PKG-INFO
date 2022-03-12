@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: image-processing-on
+Version: 0.0.1
+Summary: Image Processing Package using skimage
+Home-page: https://github.com/maisonhenrique/image-processing-package
+Author: Maison Henrique
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+
 # image_processing_on
 
 Description.
@@ -25,3 +36,4 @@ Maison Henrique
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
