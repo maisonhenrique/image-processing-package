@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_processing_on",
-    version="0.0.1",
+    version="0.0.7",
     author="Maison Henrique",
     description="Image Processing Package using skimage",
     long_description=page_description,
